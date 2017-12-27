@@ -17,7 +17,7 @@ int main(void)
 
     /* Place your initialization/startup code here (e.g. MyInst_Start()) */
 
-    P5LP_059_Dbg_init();
+    P5LP_Debug_Start();
     
     for(;;)
     {
